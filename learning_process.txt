@@ -1,0 +1,7 @@
+Had my 'it' and 'subject' question answered on StackOverflow
+
+Finally found out why RSpec wasn't recognising my get method (needed to initialise rspec)
+
+Still getting error, searching for more solutions
+
+Found the issue by reading rspec documentation, needed to initialise the rails rspec (not just the ruby rpsec)
