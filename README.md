@@ -8,4 +8,4 @@
 
   * 💬 _Question Answered: https://stackoverflow.com/questions/63018797/ruby-times-method-called-on-an-integer-how-does-it-know-to-iterate-through-eac/63019654#63019654_
 
-  * ❔ _Question Asked: https://stackoverflow.com/questions/63030108/why-does-changing-the-order-of-it-and-subject-in-rspec-change-my-test-result
+  * ❔ _Question Asked: https://stackoverflow.com/questions/63030108/why-does-changing-the-order-of-it-and-subject-in-rspec-change-my-test-result_
